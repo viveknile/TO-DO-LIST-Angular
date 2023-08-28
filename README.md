@@ -21,3 +21,4 @@ Run ng e2e to execute the end-to-end tests via a platform of your choice. To use
 
 To get more help on the Angular CLI use ng help or go check out the Angular CLI Overview and Command Reference page.
 ## Output
+![todo](https://github.com/viveknile/TO-DO-LIST-Angular/assets/81365571/a07bb09e-e410-4f2e-a34f-dcd64efcea7f)
